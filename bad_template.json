@@ -1,0 +1,15 @@
+{
+    "content": [
+        {
+            "name": "render",
+            "content": [
+                { "name": "frames" },
+                { "name": "videos" },
+                { "name": "images" }
+            ]
+        },
+        { "name": "media" },
+        { "name": "textures" },
+        { "name": "references" 
+    ]
+}
